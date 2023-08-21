@@ -18,4 +18,10 @@ AS- Hospitality Management
 
 [For my work experiences, please check out my resume here:](https://docs.google.com/document/d/1qMqySHzn_pH6aeEWShVqNdmYOuRXO-B9xEjhjf03kLU/edit)  
 
-### Projects
+### Awards and Certificates
+
+[GfK NextGen 2023 Hackathon Winner](https://www.gfk.com/press/hackathon-data-science-winners)
+
+[Google Project Management](https://coursera.org/share/489bf4be42e622b827a8a457ab5d3fa8)
+
+[CodePath Web Dev](https://drive.google.com/file/d/1Pg9mdqkUPf5y3OLvfVFNolzQNIrKvV_8/view)
