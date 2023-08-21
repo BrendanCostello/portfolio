@@ -11,8 +11,11 @@ Equipped with a proven track record in leading teams, crafting intricate solutio
 ### Education
 
 BS- Information Systems and Informatics minoring in Data Science
+
 AS- Hospitality Management
 
 ### Work Experience
+
+[Resume](https://docs.google.com/document/d/1QKhnmfEKMHafLMtQMgJS5ytlUGA619bqUBCgPd5kOY8/edit)  
 
 ### Projects
