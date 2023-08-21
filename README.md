@@ -11,9 +11,13 @@ Equipped with a proven track record in leading teams, crafting intricate solutio
 ### Education
 
 **CUNY College of Staten Island** Bachelor's of Science _May 2025_
+  
   **Major** Information Systems and Informatics
+  
   **Minor** Data Science
+
 **Culinary Institute of America** Associate's _July 2010_
+  
   Hospitality Management
 
 ### Work Experience
