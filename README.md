@@ -12,8 +12,10 @@ Equipped with a proven track record in leading teams, crafting intricate solutio
 
 **CUNY College of Staten Island** Bachelor's of Science _May 2025_
 <ul>
-  <li>**Major** Information Systems and Informatics</li>
-  <li>**Minor** Data Science</li>
+  <li>
+  <p><strong>Major</strong> Information Systems and Informatics</p>
+  <p><strong>Minor</strong> Data Science</p>
+  </li>
 </ul>  
 
 **Culinary Institute of America** Associate's _July 2010_
