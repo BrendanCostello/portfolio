@@ -1,4 +1,4 @@
-# Data Science
+# Data Scientist
 
 Affiliations: Data Science, Information Systems, Informatics, Statistics
 
