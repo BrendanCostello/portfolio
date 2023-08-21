@@ -1,4 +1,4 @@
-# Brendan Costello
+# Data Science
 
 Affiliations: Data Science, Information Systems, Informatics, Statistics
 
