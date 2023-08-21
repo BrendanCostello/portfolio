@@ -1,6 +1,6 @@
 # Data Scientist
 
-Affiliations: Data Science, Information Systems, Informatics, Statistics
+**Affiliations** Data Science, Information Systems, Informatics, Project Management, Statistics
 
 ### Description
 
@@ -10,13 +10,15 @@ Equipped with a proven track record in leading teams, crafting intricate solutio
 
 ### Education
 
-BS- Information Systems and Informatics minoring in Data Science
-
-AS- Hospitality Management
+**CUNY College of Staten Island** Bachelor's of Science _May 2025_
+  **Major** Information Systems and Informatics
+  **Minor** Data Science
+**Culinary Institute of America** Associate's _July 2010_
+  Hospitality Management
 
 ### Work Experience
 
-[For my work experiences, please check out my resume here:](https://docs.google.com/document/d/1qMqySHzn_pH6aeEWShVqNdmYOuRXO-B9xEjhjf03kLU/edit)  
+My [CV](https://docs.google.com/document/d/1qMqySHzn_pH6aeEWShVqNdmYOuRXO-B9xEjhjf03kLU/edit) provides more details on my work experiences 
 
 ### Awards and Certificates
 
