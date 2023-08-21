@@ -16,6 +16,6 @@ AS- Hospitality Management
 
 ### Work Experience
 
-[Resume](https://docs.google.com/document/d/1QKhnmfEKMHafLMtQMgJS5ytlUGA619bqUBCgPd5kOY8/edit)  
+[Resume]([https://docs.google.com/document/d/1QKhnmfEKMHafLMtQMgJS5ytlUGA619bqUBCgPd5kOY8/edit](https://docs.google.com/document/d/1qMqySHzn_pH6aeEWShVqNdmYOuRXO-B9xEjhjf03kLU/edit)https://docs.google.com/document/d/1qMqySHzn_pH6aeEWShVqNdmYOuRXO-B9xEjhjf03kLU/edit)  
 
 ### Projects
